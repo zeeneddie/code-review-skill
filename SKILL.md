@@ -193,6 +193,10 @@ Use labels to indicate priority:
 | **C++** | [C++ Guide](reference/cpp.md) | RAII, 生命周期, Rule of 0/3/5, 异常安全 |
 | **CSS/Less/Sass** | [CSS Guide](reference/css-less-sass.md) | 变量规范, !important, 性能优化, 响应式, 兼容性 |
 | **Qt** | [Qt Guide](reference/qt.md) | 对象模型, 信号/槽, 内存管理, 线程安全, 性能 |
+| **ASP Classic** | [ASP Classic Guide](reference/asp-classic.md) | SQL injection, XSS, Session security, COM lifecycle, ADODB, On Error Resume Next |
+| **VB.NET** | [VB.NET Guide](reference/vbnet.md) | Option Strict, Async Sub vs Function, COM interop, LINQ, WebForms security, migration |
+| **PHP** | [PHP Guide](reference/php.md) | SQL injection, XSS, deserialization, type juggling, Laravel/Symfony, PHP 8.x |
+| **HTML** | [HTML Guide](reference/html.md) | XSS, CSRF, CSP, accessibility (a11y), SEO, forms, iframes, performance |
 
 ## Cross-Cutting Guides
 
@@ -201,6 +205,7 @@ Language-agnostic patterns applicable to all code reviews:
 | Topic | Reference File | Key Topics |
 |-------|----------------|------------|
 | **Universal Quality** | [Universal Quality Guide](reference/code-quality-universal.md) | Reuse audit, parameter sprawl, leaky abstractions, nested conditionals, stringly-typed code, TOCTOU, no-op updates, redundant state |
+| **Healthcare Security** | [Healthcare Security Guide](reference/healthcare-security.md) | NEN 7510, OWASP Top 10, PII/PHI detection, audit trails, EV-tiers, AVG/GDPR |
 
 ## Additional Resources
 
