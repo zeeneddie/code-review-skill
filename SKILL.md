@@ -88,6 +88,13 @@ Transform code reviews from gatekeeping to knowledge sharing through constructiv
 - Linting violations
 - Simple typos
 
+## Two Required Questions in Every Review
+
+1. **Traceability** — Does every changed line trace to the task and the applicable project instructions? Give the reasoning.
+2. **Simplicity** — Could this diff be shorter with the same result? (30–50% is a heuristic, not a quota.)
+
+Answer both questions explicitly in the review, with reasoning.
+
 ## Review Process
 
 ### Phase 1: Context Gathering (2-3 minutes)
